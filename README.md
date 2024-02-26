@@ -19,5 +19,7 @@ apt update -y && apt upgrade -y && pkg update -y && pkg upgrade -y && pkg instal
 
 ## Execution
 ```sh
+clone the repo using git clone ....
+cd EmphyDDoS
 python start.py
 ```
